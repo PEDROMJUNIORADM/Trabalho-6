@@ -1,0 +1,10 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 6EC2-55EB
+
+ Pasta de C:\Teste\Trabalho
+
+12/03/2015  20:59    <DIR>          .
+12/03/2015  20:59    <DIR>          ..
+12/03/2015  20:59                 0 t.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   148.495.835.136 bytes dispon°veis
