@@ -25,6 +25,8 @@ public class VeiculoController {
     }
     
     public void criarVeiculo(@RequestBody Veiculo veiculo) {
+        
+        
     }        
     
     public void alterarVeiculo(@RequestBody Veiculo veiculo) {

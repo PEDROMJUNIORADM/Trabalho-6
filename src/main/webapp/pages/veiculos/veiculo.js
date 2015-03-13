@@ -43,6 +43,14 @@ function VeiculoController($scope,$http) {
         console.log(">>> veículos carregados....");
     }
         
+        
+    function manterDisciplina(){
+        
+        
+        
+        
+    }    
+        
 }
 
 
